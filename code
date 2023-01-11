@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=divce-width, initial-scale=1">
+        <style>
+            img {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+               
+            }
+            .ank{
+                top: 500px;
+            }
+        </style>
+    </head>
+    <body>
+        
+        <div class="ank">
+        <img src="https://cssbattle.dev/targets/110.png" alt="logo" title="creat this image with html-css-js in the center of a page in 30 min. ">
+        </div>
+    </body>
+</html>
